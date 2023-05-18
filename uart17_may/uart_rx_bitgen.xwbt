@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=D:\5th May\uart17_may\uart_rx.ncd
+OUTFILE=D:\5th May\uart17_may\uart_rx.bit
+FAMILY=Spartan6
+PART=xc6slx9-2tqg144
+WORKINGDIR=D:\5th May\uart17_may
+LICENSE=WebPack
+USER_INFO=212650071_0_0_132
